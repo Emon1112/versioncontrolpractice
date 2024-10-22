@@ -1,0 +1,75 @@
+
+
+**********Bash commands**********
+cd/- root folder
+git bash-PS-WHICH COMMAND
+ls
+pwd
+space thakle coatation
+cd .. for backword
+mkdir foldarname
+rmdir foldarname
+file remove- rm filename
+touch filename-file create
+file show-cat file name
+start filename
+start firefox filename
+clear
+
+
+
+************git-local based on Vs-code***************
+install git bash
+git config --global user.name Emon
+git config --global user.email admin@alihossain.com
+git init-repository ta nojor rakha
+ls -lart  -for hiddenfile
+git status
+u-untracked
+*******git add(stages) and commit******
+git add index.html
+git add -A
+git reset
+git add .-for folder
+git add css/custom.css
+git commit
+i Initial commit
+esc :wq
+after edit
+git commit -m "comment"
+
+
+
+
+file back-git checkout index.html
+git checkout -f
+git log
+last commit-git log -p -1
+git diff
+git diff --f staged
+git reset --hard--ager stage a fire jabe
+stage theke fourcefully delete-git rm test.text -f
+
+*****gitignore******
+at first make a file name .gitignore******
+then add to stages
+then commit by git commit -m "comment"
+opening the file and add like: js/app.js, folder-img/,path,extentions-*.extentions,
+
+
+
+
+*******gitbranch*******
+
+git branch-show like ls
+new branch-git branch branch-name
+git checkout -b branch-name
+for switch-git checkout anotherbranch
+marge-git merge master
+marge-git merge master
+
+
+
+
+
+
