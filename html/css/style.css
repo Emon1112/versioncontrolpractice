@@ -1,0 +1,42 @@
+*{
+    margin-left: 0;
+    margin-right: 0;
+}
+.header{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+
+}
+nav{
+    align-content: center;
+}
+.about{
+    background-color: antiquewhite;
+    border-radius: 5px;
+    border-style: ridge;
+}
+.about>h1{
+    justify-content: center;
+    display: flex;
+}
+.skills{
+background-color: blue;
+}
+.skills>.box{
+    display: flex;
+    justify-content: space-between;
+
+}
+.skills>.box>div{
+    border-style: ridge;
+    background-color: aqua;
+    border-radius: 4px;
+    width: 20%;
+}
+.skills>h1{
+    display: flex;
+    justify-content: center;
+}
