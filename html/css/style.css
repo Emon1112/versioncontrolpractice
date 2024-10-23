@@ -40,3 +40,15 @@ background-color: blue;
     display: flex;
     justify-content: center;
 }
+.dropmenu{
+    display: inline-block;
+    position: relative;
+}
+.dropcontent{
+    display: block;
+    position: absolute;
+    display: none;
+}
+.dropmenu:hover .dropcontent{
+    display: block;
+}
